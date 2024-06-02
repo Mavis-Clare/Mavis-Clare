@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/Mavis-Clare/Mavis-Clare/blob/main/photo_5395372311789559057_y.jpg width=500px)](https://t.me/Alaska_alex_agp)
+[![Header](https://github.com/Mavis-Clare/Mavis-Clare/blob/main/photo_5395372311789559057_y.jpg width="500px")](https://t.me/Alaska_alex_agp)
 
 
 # I am a frontend developer and ui/ux designer!
