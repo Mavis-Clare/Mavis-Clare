@@ -22,7 +22,7 @@ Hi! My name is Alla, and I'm a budding web developer known as AllaDevPro. I'm pa
     <a href="https://www.linkedin.com/in/aleksey-malankin-0b083926a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/Alla281189" target="_blank">
+    <a href="https://t.me/Alla28MC" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
