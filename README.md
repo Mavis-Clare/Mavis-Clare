@@ -11,7 +11,7 @@ WeB MaSteR
 Hi! My name is Alla, and I'm a budding web developer known as AllaDevPro. I'm passionate about web development and am learning HTML, CSS, and JavaScript. My projects are characterized by attention to detail and user-friendliness. I actively participate in webinars and professional communities, which helps me grow. If you need an energetic and dedicated web developer for your project, I'm happy to help!
 -----------
 * 🌍  I'm based in Man of the world
-* ✉️  You can contact me at [alaska.alex.agp@gmail.com](mailto:alaska.alex.agp@gmail.com)
+* ✉️  You can contact me at [all27082007@gmail.com](mailto:all27082007@gmail.com)
 * 🚀  I'm currently working on [I am currently affiliated with Alaska\_Alex and continue my education by actively participating in webinars and professional communities.](http://aласкаалекс.рф)
 * 🧠  I'm learning HTML CSS JS
 * 🤝  I'm open to collaborating on Ready to participate in interesting projects.
@@ -22,7 +22,7 @@ Hi! My name is Alla, and I'm a budding web developer known as AllaDevPro. I'm pa
     <a href="https://www.linkedin.com/in/aleksey-malankin-0b083926a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/Alaska_alex_agp" target="_blank">
+    <a href="https://t.me/Alla281189" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
